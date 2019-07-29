@@ -100,7 +100,7 @@ the “burning” of these carbohydrates is called respiration through which CO2
 
 It is biologically fixed CO2
 
-Plants inhale and exhale CO2, but far greater percentage of the CO2 is sequestered in the biological cycle by being stored in living and dead plant matter, roots, in the soil, eaten by animals (us)  – in the oceans CO2 is stored in phytoplankton, clamshells these settle to bottom and form limestone, sediments,fossil fuels this is one place where the biological and the geological carbon cycles interconnect
+Plants inhale and exhale CO2, but far greater percentage of the CO2 is sequestered in the biological cycle by being stored in living and dead plant matter, roots, in the soil, eaten by animals (us to). In the oceans CO2 is stored in phytoplankton, clamshells these settle to bottom and form limestone, sediments,fossil fuels this is one place where the biological and the geological carbon cycles interconnect
 
 Photosynthesis and respiration provide both a daily and annual fluctuation in co2 levels
 

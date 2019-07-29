@@ -43,4 +43,50 @@ This is the carbon cycle...
 
 With our current understanding of the earth’s dynamics the carbon cycle is the way that we observe carbon cycling through the planets interconnected systems. 
 
-The total cycle has within it two systems that operate at different time scales, these are the Geological and the Biological.
+The total cycle has within it two systems that operate at different time scales, these are the Geological and the Biological. The Geological is slow and steady and relies on entire ecosystems...
+
+## Geological Carbon Cycle: thousands; tens of thousands; millions of years
+
+Carbon was present at the forming of Earth, (bombarding meteorites, random space debris coming together, etc.)  H2O and CO2 in the atmosphere form to make a weak acid that upon raining down releases the carbon from exposed rock and washes it into the ocean where it settles onto the seabed. (confirm this?) 
+
+Calcium carbonate from crustacean shells, corals, etc. also gets washed down to the deep ocean and participates in the same process.
+
+With the movement of the earth’s crust it is then drawn back into the earth’s mantle through subduction, where it becomes magma, through volcanic eruptions is released again as CO2, volcanic gas and lava. 
+
+This system regulates amount of atmospheric carbon dioxide which in turn contributes to the regulation of the earth’s temperature. (Meaning it adds large quantities of CO2 to atmosphere on occasion; making up for excess carbon that would be being stored by living plants; sans human intervention) 
+
+Over the course of the earth’s history this cycle has varied in intensity, this variable is thought to be a contributing factor in the oscillation of ice ages and periods of warming or deglaciation.
+
+## Biological: days, weeks, months, years, centuries, thousands of years...
+
+photosynthesis is the foundation of the biological carbon cycle system, through photosynthesis plants combine solar energy and co2 into sugars or carbo hydrates, this is the energy of cell division…growth
+
+the “burning” of these carbohydrates is called respiration through which CO2 is released back into the atmosphere.
+
+It is biologically fixed CO2
+
+Plants inhale and exhale CO2, but far greater percentage of the CO2 is sequestered in the biological cycle by being stored in living and dead plant matter, roots, in the soil, eaten by animals (us)  – in the oceans CO2 is stored in phytoplankton, clamshells these settle to bottom and form limestone, sediments,fossil fuels this is one place where the biological and the geological carbon cycles interconnect
+
+Photosynthesis and respiration provide both a daily and annual fluctuation in co2 levels
+
+We can look at both the biological and geological as a vast unified carbon regulator, a system the absorbs and releases carbon at different rates over different periods of time,
+
+all things store carbon for differing lengths,
+
+our bodies are a type of temporary CO2 containers
+
+## Carbon Sinks
+
+## Fossil Fuels (A special kind of carbon sink!?)
+
+## Human Activity
+
+Human activities are releasing all these different stores of carbon (forests, plants, soil, fossil fuels) into airbone CO2
+
+## Fossil Fuel Usage
+
+## Farming Practice
+
+## Deforestation
+
+???
