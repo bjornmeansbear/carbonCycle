@@ -22,14 +22,25 @@ When combined with oxygen and hydrogen, carbon can form many groups of important
 
 Makes hardest materials and softest materials, diamond and graphite for example ...
 
-It is found in all living things, also in the atmosphere and  in limestone layers in ocean also in all fossil fuels (coal,oil)
+It is found in all living things, also in the atmosphere and in limestone layers in ocean also in all fossil fuels (coal, oil, natural gas, etc. -- any "Hydro _carbon_" and any "_Carbo_ Hydrate") ...
 
 Whew!
 
-## What does Carbon Do?
+## What CO2?
+
+Carbon plus oxygen make carbon dioxide, CO2 is essential for biological life -- plants "breathe" in CO2... more on this...
+
+## CO2 in the atmosphere.
+
+CO2 is a gas. Our atmosphere is the envelope around our planet where energy from the sun is temporarily stored, giving us the temperatures necessary for life. Co2 along with methane and water vapor are termed greenhouse gases as they are semi opaque gases that allow for the suns energy in the form of visible light to enter the atmosphere but partially block it after it bounces off the earth’s surface in the form of heat. The balance of what is allowed into the atmosphere and  the amount that is allowed back out is what determines the atmospheres temperature. In particular the Lower Atmosphere where we live. The higher concentration of greenhouse gases, the more heat confined to the atmosphere.
 
 ## How does it Move around?
-Under terrestrial conditions, conversion of one element to another is very rare. Therefore, the amount of carbon on Earth is effectively constant. Thus, processes that use carbon must obtain it from somewhere and dispose of it somewhere else.
+Under terrestrial conditions, conversion of one element to another is very rare. Therefore, the amount of carbon on Earth is constant (effectively -- the stray meteorite might bring some new stuff in; and we send some up into near space via our space/satellite missions). Thus, processes that use carbon must obtain it from somewhere and dispose of it somewhere else.
 
 This is the carbon cycle...
 
+## What is the “Carbon cycle”?
+
+With our current understanding of the earth’s dynamics the carbon cycle is the way that we observe carbon cycling through the planets interconnected systems. 
+
+The total cycle has within it two systems that operate at different time scales, these are the Geological and the Biological.
