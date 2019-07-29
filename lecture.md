@@ -59,21 +59,29 @@ Over the course of the earth’s history this cycle has varied in intensity, thi
 
 ## Biological: days, weeks, months, years, centuries, thousands of years...
 
-photosynthesis is the foundation of the biological carbon cycle system, through photosynthesis plants combine solar energy and co2 into sugars or carbo hydrates, this is the energy of cell division…growth
+The biological cycle is based on these two main :
+- Carbon enters the atmosphere as CO2 from respiration and combustion (decomposition is also a form of respiration)
+- Photosynthetic plants take CO2 from the air and use that C to grow, and then release the O2 back to the atmosphere.
 
-the “burning” of these carbohydrates is called respiration through which CO2 is released back into the atmosphere.
+Photosynthesis is the foundation of the biological carbon cycle system, through photosynthesis plants combine solar energy and CO2 into sugars or carbo hydrates, this is the energy of cell division… basically, growth...
 
-It is biologically fixed CO2
+Photosynthetic plants take CO2 from the air and use that C to grow, release the O2 back to the atmosphere.
 
-Plants inhale and exhale CO2, but far greater percentage of the CO2 is sequestered in the biological cycle by being stored in living and dead plant matter, roots, in the soil, eaten by animals (us)  – in the oceans CO2 is stored in phytoplankton, clamshells these settle to bottom and form limestone, sediments,fossil fuels this is one place where the biological and the geological carbon cycles interconnect
+Photosynthesis builds carbohydrates for plants to use for their life processes. Mostly in the form of Glucose. How that works, well, that's another presentation for a different class...  or for your own research... but its the coolest kind of solar energy...
 
-Photosynthesis and respiration provide both a daily and annual fluctuation in co2 levels
+CO2 is used and temporarily sequestered in the biological cycle by being stored in living and dead plant matter, roots, in the soil, eaten by animals (us)
+
+In the oceans CO2 is stored in phytoplankton, clamshells these settle to bottom and form limestone, sediments,fossil fuels this is one place where the biological and the geological carbon cycles interconnect.
+
+Photosynthesis and respiration provide both a daily and annual fluctuation in CO2 levels (chart of winters in Northern Hemisphere?)
+
+## The Natural CO2 Regulators...
 
 We can look at both the biological and geological as a vast unified carbon regulator, a system the absorbs and releases carbon at different rates over different periods of time,
 
 all things store carbon for differing lengths,
 
-our bodies are a type of temporary CO2 containers
+even our bodies are a type of temporary CO2 containers
 
 ## Carbon Sinks
 
