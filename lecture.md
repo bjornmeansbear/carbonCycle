@@ -1,5 +1,7 @@
 # The Carbon Cycle.
 
+https://earthobservatory.nasa.gov/ContentFeature/CarbonCycle/images/carbon_cycle.jpg
+
 ## What is Carbon?
 
 Carbon is the 4th most abundant element in the Universe (behind Hydrogen, helium, oxygen, carbon)
@@ -47,7 +49,9 @@ The total cycle has within it two systems that operate at different time scales,
 
 ## Geological Carbon Cycle: thousands; tens of thousands; millions of years
 
-Carbon was present at the forming of Earth, (bombarding meteorites, random space debris coming together, etc.)  H2O and CO2 in the atmosphere form to make a weak acid that upon raining down releases the carbon from exposed rock and washes it into the ocean where it settles onto the seabed. (confirm this?) 
+Carbon was present at the forming of Earth, (bombarding meteorites, random space debris coming together, etc.)  H2O and CO2 in the atmosphere form to make a weak acid (—carbonic acid) that upon raining down releases the calcium (amongst other things) from exposed rock and washes it into the ocean where it settles onto the seabed. (confirm this?) 
+
+Rivers carry calcium ions—the result of chemical weathering of rocks—into the ocean, where they react with carbonate dissolved in the water. The product of that reaction, calcium carbonate, is then deposited onto the ocean floor, where it becomes limestone.  (NASA earth observatory)
 
 Calcium carbonate from crustacean shells, corals, etc. also gets washed down to the deep ocean and participates in the same process.
 
@@ -75,21 +79,47 @@ In the oceans CO2 is stored in phytoplankton, clamshells these settle to bottom 
 
 Photosynthesis and respiration provide both a daily and annual fluctuation in CO2 levels (chart of winters in Northern Hemisphere?)
 
+There is a sub cycle, less CO2 in northern hemisphere summers, more in winters due to northern boreal forests growing and then losing foliage for the winter...
+
+1. carbon enters the atmospher as CO2 through respiration and combustion.
+2. carbon is absorbed as CO2 by plants through photosynthesis; used to make glucose (C + H20 = carbohydrates)
+3. Animals + other organisms eat plants moving some of that carbon into their bodies (moves along the foodchain). We mainly then exhale out the carbon we've taken in from eating as CO2 -- Aerobic respiration.
+4. Animals, insects, microbes, and plants all eventually die. Decomposition breaks down the dead matter returning more C to the atmosphere as CO2 (microbe respiration also releases CO2). However, somtimes decomposition is blocked and the plant or animal matter gets buried -- this sequesters this carbon, containing it underground or underwater. This might eventually turn into sedimentary rock or into fossil fuels. 
+5. When/If we unearth fossil fuels and burn them, combustion causes that carbon to become CO2 in the atmosphere.
+
 ## The Natural CO2 Regulators...
 
-We can look at both the biological and geological as a vast unified carbon regulator, a system the absorbs and releases carbon at different rates over different periods of time,
+We can look at both the biological and geological as a vast unified carbon regulator, a system the absorbs and releases carbon at different rates over different periods of time.
 
-all things store carbon for differing lengths,
-
-even our bodies are a type of temporary CO2 containers
+Normally this is a closed self regulating system with minor slow fluctuations that historically we can see records of in ice layers, etc. It has contributed to some weather changes in the psat (we can now match CO2 measurements in ice cores to historical documentation we have from other places... mini ice age in europe as example?)
 
 ## Carbon Sinks
 
+all things store carbon for differing lengths, even our bodies are a type of temporary CO2 containers... 
+
+carbon is contained and moved from one state and place to other states/places -- this is the carbon cycle -- and those containers for storing especially large amounts of carbon are called carbon sinks. 
+
+Most of Earth’s carbon—about 65,500 billion metric tons—is stored in rocks. The rest is in the ocean, atmosphere, plants, soil, and fossil fuels.(from NASA earth observatory link)
+
+The prairie is a carbon sink; wetlands and marshes are carbon sinks; forests can be; the oceans; corral reefs ... we can also create new ways; burning wood into bio char; make cement that acts like calcium carbonate to absorb more CO2 overtime; etc...
+
+The Atmosphere is actually a relatively small carbon sink, roughly 1% of the earths carbon pool. But, since its not that much, we can easily change it by disrupting other aspects of the carbon cycle; distrubing these other carbon sinks (like releasing a bunch from below ground via burning fossil fuels or crappy land managment practice)
+
+Disturbing the other stores/systems releases more to the atmosphere and that rapidly has a drastic, immediate, & lasting affect (effect?)
+
+drop of food coloring in a cup of water versus a pool of water... as illustration?
+
 ## Fossil Fuels (A special kind of carbon sink!?)
+Fossil fuels are also a kind of carbon sink. Biological system carbon in the form of plant and animal matter might end up not decomposing... if its covered or trapped it doesn't decompose... it then ends up becoming trapped... that carbon doesn't respirate back into the atmosphere; it is stored underground. Overtime, the plant or animal matter becomes fossil fuels!
 
 ## Human Activity
 
 Human activities are releasing all these different stores of carbon (forests, plants, soil, fossil fuels) into airbone CO2
+
+The main issue is that we keep adding more to the atmosphere without taking some out -- plants use what we normally respirate; but if we're unearthing carbon from ground and below ground stores its too much too fast.
+
+https://earthobservatory.nasa.gov/ContentFeature/CarbonCycle/images/carbon_cycle.jpg
+?
 
 ## Fossil Fuel Usage
 
@@ -97,4 +127,4 @@ Human activities are releasing all these different stores of carbon (forests, pl
 
 ## Deforestation
 
-???
+I'll repeat again: The main issue is that we keep adding more to the atmosphere without taking some out -- we've short circuited the normal cycle -- plants use what we normally respirate; but if we're unearthing carbon from ground and below ground stores its too much too fast.
