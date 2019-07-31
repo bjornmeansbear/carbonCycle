@@ -1,5 +1,10 @@
 # The Carbon Cycle.
 
+```
+This document needs better noting/citations
+coming in editing process
+```
+
 https://earthobservatory.nasa.gov/ContentFeature/CarbonCycle/images/carbon_cycle.jpg
 
 ## What is Carbon?
@@ -51,7 +56,7 @@ The total cycle has within it two systems that operate at different time scales,
 
 Carbon was present at the forming of Earth, (bombarding meteorites, random space debris coming together, etc.)  H2O and CO2 in the atmosphere form to make a weak acid (—carbonic acid) that upon raining down releases the calcium (amongst other things) from exposed rock and washes it into the ocean where it settles onto the seabed. (confirm this?) 
 
-Rivers carry calcium ions—the result of chemical weathering of rocks—into the ocean, where they react with carbonate dissolved in the water. The product of that reaction, calcium carbonate, is then deposited onto the ocean floor, where it becomes limestone.  (NASA earth observatory)
+Rivers carry calcium ions—the result of chemical weathering of rocks—into the ocean, where they react with carbonate dissolved in the water. The product of that reaction, calcium carbonate, is then deposited onto the ocean floor, where it becomes limestone. (NASA earth observatory)
 
 Calcium carbonate from crustacean shells, corals, etc. also gets washed down to the deep ocean and participates in the same process.
 
