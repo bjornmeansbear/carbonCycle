@@ -13,7 +13,7 @@ Carbon is the 4th most abundant element in the Universe (behind Hydrogen, helium
 
 Carbon is the 15th most abundant element in the Earth's crust
 
-Carbon is a cool element -- its capable of 4 bonds, more than most other things, so its able to organize in a lot of different ways and make a lot of different kinds of structures. Diamonds. Sugars. Graphite. Rocks. Proteins. Coal. Biochar. the list goes on.
+Carbon is cooler than other elements!! -- its capable of 4 bonds, so its able to organize in a lot of different ways and make a lot of different kinds of structures. Diamonds. Sugars. Graphite. Rocks. Proteins. Coal. Biochar. the list goes on.
 
 Carbon forms a vast number of compounds, more than any other element, with almost ten million compounds described to date -- and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. For this reason, carbon has often been referred to as the "king of the elements"
 
