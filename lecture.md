@@ -2,7 +2,8 @@
 
 ```
 This document needs better noting/citations
-coming in editing process
+
+hopefully coming in editing process!
 ```
 
 Why isn't this working?
@@ -135,3 +136,7 @@ https://earthobservatory.nasa.gov/ContentFeature/CarbonCycle/images/carbon_cycle
 ## Deforestation
 
 I'll repeat again: The main issue is that we keep adding more to the atmosphere without taking some out -- we've short circuited the normal cycle -- plants use what we normally respirate; but if we're unearthing carbon from ground and below ground stores its too much too fast.
+
+---
+
+Okay, so is this a good lecture? does this exist? why isn't it showing up on github or other computers! what!!!!
