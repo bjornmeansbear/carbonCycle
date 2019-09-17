@@ -4,9 +4,10 @@
 This document needs better noting/citations
 
 hopefully coming in editing process!
-```
 
-Why isn't this working?
+Citations and images are subject to their own copyright; otherwise all content is licensed creative commons [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+```
 
 https://earthobservatory.nasa.gov/ContentFeature/CarbonCycle/images/carbon_cycle.jpg
 
