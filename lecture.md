@@ -7,7 +7,7 @@ hopefully coming in editing process!
 
 Citations and images are subject to their own copyright; otherwise all content is licensed creative commons [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-Images chosen are either CC licensed; public domain; or have some other kind of free/open license as part of their usage.
+Images chosen are either CC licensed; public domain; or have some other kind of free/open license as part of their usage. All are copyright their original creators. {need to better document this, I'm a failure}
 
 ```
 
