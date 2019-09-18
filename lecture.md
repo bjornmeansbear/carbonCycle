@@ -18,9 +18,11 @@ Carbon is the 4th most abundant element in the Universe (behind Hydrogen, helium
 
 Carbon is the 15th most abundant element in the Earth's crust
 
-Carbon is way cooler than other elements!! -- its capable of 4 bonds, so its able to organize in a lot of different ways and make a lot of different kinds of structures. Diamonds. Sugars. Graphite. Rocks. Proteins. Coal. Biochar. the list goes on.
+Carbon is way cooler than prety much all other elements!! -- its capable of 4 bonds, so its able to organize in a lot of different ways and make a lot of different kinds of structures.
 
-Carbon forms a vast number of compounds, more than any other element, with almost ten million compounds described to date -- and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. For this reason, carbon has often been referred to as the "king of the elements" (can we find a new, non patriarchy way of saying this?).
+Carbon forms a vast number of compounds, more than any other element, with almost ten million compounds described to date -- and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. 
+
+For this reason, carbon has often been referred to as the "king of the elements" (can we find a new, non patriarchy way of saying this?).
 
 ## Why is Carbon Important?
 
@@ -54,7 +56,7 @@ Under terrestrial conditions, conversion of one element to another is very rare,
 
 With our current understanding of the earth's dynamics the carbon cycle is the way that we observe carbon cycling through the planet's interconnected systems.
 
-The total cycle has within it two systems that operate at different time scales: the Geological and the Biological. The Geological is slow and steady and relies on entire ecosystems... the biological is fast and is more about respiration and consumption.
+The total cycle has within it two main systems that operate at different time scales: the Geological and the Biological. The Geological is slow and steady and relies on entire ecosystems... the biological is fast and is more about respiration and consumption.
 
 ## Geological Carbon Cycle: thousands; tens of thousands; millions of years
 
