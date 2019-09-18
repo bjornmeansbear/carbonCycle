@@ -18,7 +18,7 @@ Carbon is the 4th most abundant element in the Universe (behind Hydrogen, helium
 
 Carbon is the 15th most abundant element in the Earth's crust
 
-Carbon is way cooler than prety much all other elements!! -- its capable of 4 bonds, so its able to organize in a lot of different ways and make a lot of different kinds of structures.
+Carbon is way cooler than pretty much all the other elements!! -- its capable of 4 bonds, so its able to organize in a lot of different ways and make a lot of different kinds of structures.
 
 Carbon forms a vast number of compounds, more than any other element, with almost ten million compounds described to date -- and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. 
 
@@ -60,9 +60,9 @@ The total cycle has within it two main systems that operate at different time sc
 
 ## Geological Carbon Cycle: thousands; tens of thousands; millions of years
 
-Carbon was present at the forming of Earth, (bombarding meteorites, random space debris coming together, etc.) H2O and CO2 in the atmosphere form to make a weak acid (--carbonic acid) that upon raining down releases the calcium (amongst other things) from exposed rock.
+Carbon was present at the forming of Earth, (bombarding meteorites, random space debris coming together, etc.) H2O and CO2 in the atmosphere form to make a weak acid (carbonic acid) that upon raining down releases the calcium (amongst other things) from exposed rock.
 
-Rivers carry calcium ions--the result of chemical weathering of rocks--into the ocean, where they react with carbonate dissolved in the water. The product of that reaction, calcium carbonate, is then deposited onto the ocean floor, where it becomes limestone. (NASA earth observatory)
+Rivers carry these calcium ions -- the result of chemical (& physical) weathering of rocks -- into the ocean, where they react with carbonate dissolved in the water (carbonic acid: H2CO3, basically CO2 + H2O, a carbonate then has the dissolved carbonate ion, CO2−,3). The product of that reaction, calcium carbonate, is then deposited onto the ocean floor, where it becomes limestone. (NASA earth observatory)
 
 Calcium carbonate from crustacean shells, corals, etc. also gets washed down to the deep ocean and participates in the same process. Many marine animal shells and corals themselves are made from calcium carbonate; so they take carbon dioxide that is dissovled in the water.
 
