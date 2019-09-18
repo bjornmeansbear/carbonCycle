@@ -158,9 +158,11 @@ I tried to stay mainly on the scientific facts side of things; but all of these 
 
 This is starting to get ecosocialist; I'll leave it at that for now; stick with the carbon cycles...
 
----
+The bad part: we've f-ed this up pretty badly
 
-Okay, so is this a good lecture? does this exist? why isn't it showing up on github or other computers! what!!!!
+The good part: we do actually seem to understand all this pretty well -- so we don't have to be f-ing it up anymore! let's fix it!
+
+How can our projects do something about this!!!
 
 ## References:
 
