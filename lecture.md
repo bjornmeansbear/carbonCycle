@@ -45,7 +45,7 @@ Carbon plus oxygen make carbon dioxide, CO2 is essential for biological life -- 
 
 CO2 is a gas. Our atmosphere is the envelope around our planet where energy from the sun is temporarily stored, giving us the temperatures necessary for life. CO2 along with methane and water vapor are termed greenhouse gases as they are semi opaque gases that allow for the sun's energy to enter the atmosphere but partially block/trap/reflect it after it bounces off the earth’s surface in the form of heat. The balance of what is allowed into the atmosphere and the amount that is allowed back out is what determines the atmospheres temperature. In particular the Lower Atmosphere where we live. The higher concentration of greenhouse gases, the more heat confined to the atmosphere. CO2 is a key greenhouse gas.
 
-## How does it Move around?
+## How does CO2 Move around?
 Under terrestrial conditions, conversion of one element to another is very rare, other than for radioactive materials or the really unstable isotopes, it basically doesn't happen. Therefore, the amount of carbon on Earth is constant (effectively -- the stray meteorite might bring some new stuff in; and we send some up into near space via our space/satellite missions -- but otherwise, yeah, constant). Thus, processes that use carbon must obtain it from somewhere and dispose of it somewhere else all within the boundaries of Spaceship earth.
 
 ## What is the “Carbon cycle”?
@@ -60,9 +60,9 @@ Carbon was present at the forming of Earth, (bombarding meteorites, random space
 
 Rivers carry calcium ions—the result of chemical weathering of rocks—into the ocean, where they react with carbonate dissolved in the water. The product of that reaction, calcium carbonate, is then deposited onto the ocean floor, where it becomes limestone. (NASA earth observatory)
 
-Calcium carbonate from crustacean shells, corals, etc. also gets washed down to the deep ocean and participates in the same process.
+Calcium carbonate from crustacean shells, corals, etc. also gets washed down to the deep ocean and participates in the same process. Many marine animal shells and corals themselves are made from calcium carbonate; so they take carbon dioxide that is dissovled in the water.
 
-With the movement of the earth’s crust it is then drawn back into the earth’s mantle through subduction, where it becomes magma, through volcanic eruptions is released again as CO2, volcanic gas and lava. 
+With the movement of the earth’s crust it is then drawn back into the earth’s mantle through subduction, where it becomes magma, through volcanic eruptions is released again as CO2, volcanic gas and lava. As sediment it can also, through tectonic movement, end up becoming strata of rock over time...
 
 This system helps to regulate the amount of atmospheric carbon dioxide which in turn contributes to the regulation of the earth’s temperature. (Meaning it adds large quantities of CO2 to atmosphere on occasion; making up for excess carbon that would be being stored by living plants; sans human intervention) 
 
@@ -74,19 +74,13 @@ The biological cycle is based on these two main :
 - Carbon enters the atmosphere as CO2 from respiration and combustion (decomposition is also a form of respiration)
 - Photosynthetic plants take CO2 from the air and use that C to grow, and then release the O2 back to the atmosphere.
 
-Photosynthesis is the foundation of the biological carbon cycle system, through photosynthesis plants combine solar energy and CO2 into sugars or carbo hydrates, this is the energy of cell division… basically, growth...
+Photosynthesis builds carbohydrates for plants to use for their life processes. Mostly in the form of Glucose. How that works, well, that's another presentation for a different class...  or for your own research... but its the coolest kind of useful solar energy... plants keep the C and then exhale just the pure O2 back into the atmostphere.
 
-Photosynthetic plants take CO2 from the air and use that C to grow, release the O2 back to the atmosphere.
+CO2 is used and temporarily sequestered in the biological cycle by being stored in living and dead plant matter, roots, in the soil, eaten by animals (like us)!
 
-Photosynthesis builds carbohydrates for plants to use for their life processes. Mostly in the form of Glucose. How that works, well, that's another presentation for a different class...  or for your own research... but its the coolest kind of solar energy...
+In the oceans CO2 is stored in phytoplankton, clamshells, etc. -- these settle to bottom and form limestone, sediments, fossil fuels this is one place where the biological and the geological carbon cycles interconnect.
 
-CO2 is used and temporarily sequestered in the biological cycle by being stored in living and dead plant matter, roots, in the soil, eaten by animals (us)
-
-In the oceans CO2 is stored in phytoplankton, clamshells these settle to bottom and form limestone, sediments,fossil fuels this is one place where the biological and the geological carbon cycles interconnect.
-
-Photosynthesis and respiration provide both a daily and annual fluctuation in CO2 levels (chart of winters in Northern Hemisphere?)
-
-There is a sub cycle, less CO2 in northern hemisphere summers, more in winters due to northern boreal forests growing and then losing foliage for the winter...
+Photosynthesis and respiration provide both a daily and annual fluctuation in CO2 levels -- for instance the deciduous forests of North America and Northern Europe/Asia lose leaves in the winter; this means CO2 goes up a little in the northern winter and down a little in northern summer -- southern hemisphere has way less land mass and no large swaths of forest that lose folieage in the southern winter. (chart of winters in Northern Hemisphere?)
 
 1. carbon enters the atmospher as CO2 through respiration and combustion.
 2. carbon is absorbed as CO2 by plants through photosynthesis; used to make glucose (C + H20 = carbohydrates)
@@ -98,13 +92,18 @@ There is a sub cycle, less CO2 in northern hemisphere summers, more in winters d
 
 We can look at both the biological and geological as a vast unified carbon regulator, a system the absorbs and releases carbon at different rates over different periods of time.
 
-Normally this is a closed self regulating system with minor slow fluctuations that historically we can see records of in ice layers, etc. It has contributed to some weather changes in the psat (we can now match CO2 measurements in ice cores to historical documentation we have from other places... mini ice age in europe as example?)
+Normally this is a self regulating system with minor slow fluctuations that historically we can see records of in ice layers, etc. It has contributed to some weather changes in the past (we can now match CO2 measurements in ice cores to historical documentation we have from other places... mini ice age in europe as example?)
+
+Our meddling with unearthing fossil fuels short circuits the natural rgulatory cycles...
+
+And, there is also an Ocean Cycle -- the ocean participates in the geological and the biological cycles; but the oceans themselves dissolve CO2 from the air into their waters. (as this happens they get more and more acidic; carbonic acid from before...). This creates other issues...
+
+https://earthobservatory.nasa.gov/features/OceanCarbon/page1.php
 
 ## Carbon Sinks
+carbon is contained and moved from one state and place to other states/places -- this is the carbon cycle -- and those containers for storing especially large amounts of carbon are called carbon sinks. 
 
 all things store carbon for differing lengths, even our bodies are a type of temporary CO2 containers... 
-
-carbon is contained and moved from one state and place to other states/places -- this is the carbon cycle -- and those containers for storing especially large amounts of carbon are called carbon sinks. 
 
 Most of Earth’s carbon—about 65,500 billion metric tons—is stored in rocks. The rest is in the ocean, atmosphere, plants, soil, and fossil fuels.(from NASA earth observatory link)
 
@@ -112,12 +111,10 @@ The prairie is a carbon sink; wetlands and marshes are carbon sinks; forests can
 
 The Atmosphere is actually a relatively small carbon sink, roughly 1% of the earths carbon pool. But, since its not that much, we can easily change it by disrupting other aspects of the carbon cycle; distrubing these other carbon sinks (like releasing a bunch from below ground via burning fossil fuels or crappy land managment practice)
 
-Disturbing the other stores/systems releases more to the atmosphere and that rapidly has a drastic, immediate, & lasting affect (effect?)
-
-drop of food coloring in a cup of water versus a pool of water... as illustration?
+Disturbing the other stores/systems releases more to the atmosphere and that rapidly has immediate, & lasting affect (effect?) -- and that effect is increasingly drastic! 
 
 ## Fossil Fuels (A special kind of carbon sink!?)
-Fossil fuels are also a kind of carbon sink. Biological system carbon in the form of plant and animal matter might end up not decomposing... if its covered or trapped it doesn't decompose... it then ends up becoming trapped... that carbon doesn't respirate back into the atmosphere; it is stored underground. Overtime, the plant or animal matter becomes fossil fuels! This is a way that biological carbon becomes geological carbon...
+Fossil fuels are also a kind of carbon sink. Biological system carbon in the form of plant and animal matter might end up not decomposing... if its covered or trapped it doesn't decompose... it then ends up becoming trapped... that carbon doesn't respirate back into the atmosphere; it is stored underground. Overtime, the plant or animal matter becomes fossil fuels! This is another way that biological carbon becomes geological carbon...
 
 ## Human Activity
 
@@ -125,19 +122,48 @@ https://openstax.org/resources/b7c071eada64a96ced36fdef9fcaa424a9f685a6
 
 Human activities are releasing all these different stores of carbon (forests, plants, soil, fossil fuels) into airbone CO2
 
-The main issue is that we keep adding more to the atmosphere without taking some out -- plants use what we normally respirate; but if we're unearthing carbon from ground and below ground stores its too much too fast.
+The main issue is that we keep adding more to the atmosphere without taking some out -- plants use what we normally respirate; but if we're unearthing carbon from ground from crappy agricultural practices and below ground stores from our fossil fuel addicition it is too much too fast. All our behaviors seem to be releasing carbon from the sinks; and never drawin carbon back down.
 
 https://earthobservatory.nasa.gov/ContentFeature/CarbonCycle/images/carbon_cycle.jpg
-?
+
+Carbon Cycle Video showing fossil fuel carbon showing up everywhere: https://www.youtube.com/watch?v=dwVsD9CiokY
 
 ## Fossil Fuel Usage
+This is the main way we release extra carbon into the atmosphere. Every drop of oil we take out of the ground is excess carbon we add to the atmosphere when we burn it -- there isn't already a tree or plant or photoplankton waiting to use that carbon; we've bipassed the cycle. This is the main issue of climate change. It's why a main focus of almost all plans is reducing and preferably eliminating fossil fuel usage as quickly as possible.
 
 ## Farming Practice
+Permanent agriculture is a great way to store carbon. When a perenial plant is growing, even if the above ground structure dies back in the winter, the roots stay "alive" continuing to sequester carbon in the soil. Lively, microbe rich soil with native and/or permanent species creates a carbon capturing earth environment! 
+
+Our contemporary farming practice that tills all the time and plants almost exclusively annuals degrades the soil over time; and actually releases more carbon into the atmostphere instead of sequestering it.
+
+Our industrial farming practice uses a lot of fossil fuels in the form of actual fuel for various tractors and vehicles, but also in the manufacture of fertilizer and herbicide and pesticides. These then not only further extract carbon stored in the ground as fossil fuels; but also often worsen the eco-impact of farming practice reducing diversity in plants and animals, damaging or destroying natural ecosystem processes, and thus further...
+
+We could instead empower farmers to be carbon farmers -- storing carbon AND growing better crops...
 
 ## Deforestation
+Our forests are massive carbon sinks too. A tree breathes in a massive amount of CO2, and since its root structure can often be even larger than the canopy it supports, a tree puts a lot of carbon into the ground, not just into its branches and leaves. As we cut down forests, often to be replaced with industrial agricultural practices; we lost the carbon capturing benefit of the trees AND we get all the problems stated in farming practice each year forward...
 
-I'll repeat again: The main issue is that we keep adding more to the atmosphere without taking some out -- we've short circuited the normal cycle -- plants use what we normally respirate; but if we're unearthing carbon from ground and below ground stores its too much too fast.
+So......
+
+- Stop using fossil fuels
+- do more organic, non-industrial, small-scale, and permanent agriculture
+- steward forests; plant more trees
+
+## Conclusion?
+I'll repeat again: The main issue is that we keep adding more to the atmosphere without taking some out -- we've short circuited the normal cycles by extracting ever more fossil fuels and reducing the natural carbon sink's abiltiies to do their job -- plants use what we normally respirate; but if we're unearthing carbon from ground and below ground stores its too much too fast.
+
+Okay! so that's how carbon travels around? What else do you need to know? want to know?
+
+I tried to stay mainly on the scientific facts side of things; but all of these have a social component as well; and if we think of envronmental justice in the form of better agriculture; better stewarding of marshes and forests and reefs and such; we can also start doing more about how perhaps the same practices that allow us to degrade and oppress the land also are what degrade and oppress people...
+
+This is starting to get ecosocialist; I'll leave it at that for now; stick with the carbon cycles...
 
 ---
 
 Okay, so is this a good lecture? does this exist? why isn't it showing up on github or other computers! what!!!!
+
+## References:
+
+{okay, I need to actually do some notating and then really plop some references down here!}
+
+- https://openstax.org/resources/b7c071eada64a96ced36fdef9fcaa424a9f685a6
