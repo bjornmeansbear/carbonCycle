@@ -111,7 +111,7 @@ carbon is contained and moved from one state and place to other states/places --
 
 all things store carbon for differing lengths, even our bodies are a type of temporary CO2 containers...
 
-Most of Earth's carbon--about 65,500 billion metric tons--is stored in rocks. The rest is in the ocean, atmosphere, plants, soil, and fossil fuels.(from NASA earth observatory link)
+Most of Earth's carbon--about 65,500 billion metric tons--is stored in rocks. The rest is in the ocean, atmosphere, plants, soil, and fossil fuels. (from NASA earth observatory link)
 
 The prairie is a carbon sink; wetlands and marshes are carbon sinks; forests can be; the oceans; corral reefs ... we can also create new ways; burning wood into bio char; make cement that acts like calcium carbonate to absorb more CO2 overtime; etc...
 
