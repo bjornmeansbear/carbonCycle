@@ -211,7 +211,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="100" YPOS="1750.70866141732" OwnPage="5" ItemID="1512520257" PTYPE="6" WIDTH="544.251968503937" HEIGHT="306.141732283465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="OOKB Brown" PCOLOR2="Black" PLINEART="1" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="-427.744094488189" gYpos="7.64173228346499" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.842519685039" YPOS="1762.99212598425" OwnPage="5" ItemID="1518805793" PTYPE="4" WIDTH="515.407480314961" HEIGHT="351.757874015746" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.407 0 L515.407 351.758 L0 351.758 L0 0 Z" copath="M0 0 L515.407 0 L515.407 351.758 L0 351.758 L0 0 Z" gXpos="118.842519685039" gYpos="32.283464566929" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.842519685039" YPOS="1762.99212598425" OwnPage="5" ItemID="1518805793" PTYPE="4" WIDTH="515.407480314961" HEIGHT="320.507874015746" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.407 0 L515.407 320.508 L0 320.508 L0 0 Z" copath="M0 0 L515.407 0 L515.407 320.508 L0 320.508 L0 0 Z" gXpos="118.842519685039" gYpos="32.283464566929" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="72" FCOLOR="OOKB Yellow" CH="How does"/>
@@ -224,57 +224,32 @@
                 <trail ALIGN="0" LINESP="72" MaxGlyphExtend="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="100" YPOS="2096.85039370079" OwnPage="6" ItemID="1524888401" PTYPE="6" WIDTH="544.251968503937" HEIGHT="306.141732283465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="OOKB Brown" PCOLOR2="Black" PLINEART="1" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="-427.744094488189" gYpos="7.64173228346499" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="100" YPOS="2096.85039370079" OwnPage="6" ItemID="1524888401" PTYPE="6" WIDTH="544.251968503937" HEIGHT="306.141732283465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="OOKB Blue" PCOLOR2="Black" PLINEART="1" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="-427.744094488189" gYpos="7.64173228346499" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="169.51968503937" YPOS="2131.37007874016" OwnPage="6" ItemID="1506243713" PTYPE="4" WIDTH="459.212598425197" HEIGHT="272.125984251968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" copath="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" gXpos="169.51968503937" gYpos="54.5196850393701" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow"/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow" CH="What"/>
-                <para LINESP="74"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB White" CH="Is"/>
-                <para LINESP="74"/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray" CH="CO"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FEATURES="inherit subscript" FCOLOR="OOKB Light Gray" KERN="-5" CH="2"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-12" CH="?"/>
-                <trail ALIGN="0" LINESP="74" MaxGlyphExtend="1"/>
+                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="80" FCOLOR="OOKB White" KERN="0" CH="The Carbon Cycle!"/>
+                <trail LINESP="80"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="100" YPOS="2442.99212598425" OwnPage="7" ItemID="1522333457" PTYPE="6" WIDTH="544.251968503937" HEIGHT="306.141732283465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="OOKB Brown" PCOLOR2="Black" PLINEART="1" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="-427.744094488189" gYpos="7.64173228346499" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="169.51968503937" YPOS="2477.51181102363" OwnPage="7" ItemID="1520839329" PTYPE="4" WIDTH="459.212598425197" HEIGHT="272.125984251968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" copath="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" gXpos="169.51968503937" gYpos="54.5196850393701" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="100" YPOS="2442.99212598425" OwnPage="7" ItemID="1522333457" PTYPE="6" WIDTH="544.252" HEIGHT="306.142" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="OOKB Brown" PCOLOR2="Black" PLINEART="1" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="-427.744094488189" gYpos="7.64173228346499" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="169.51968503937" YPOS="2477.51181102363" OwnPage="7" ItemID="1520839329" PTYPE="4" WIDTH="459.212598425197" HEIGHT="262.238188976375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L459.213 0 L459.213 262.238 L0 262.238 L0 0 Z" copath="M0 0 L459.213 0 L459.213 262.238 L0 262.238 L0 0 Z" gXpos="169.51968503937" gYpos="54.5196850393701" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow"/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow" CH="What"/>
-                <para LINESP="74"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB White" CH="Is"/>
-                <para LINESP="74"/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray" CH="CO"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FEATURES="inherit subscript" FCOLOR="OOKB Light Gray" KERN="-5" CH="2"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-12" CH="?"/>
-                <trail ALIGN="0" LINESP="74" MaxGlyphExtend="1"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH="Geo"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-22" CH="l"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH="ogica"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-18" CH="l"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH=" "/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB White" KERN="-12" CH="Carbon"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH=" "/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-12" CH="Cyc"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-26" CH="l"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-12" CH="e"/>
+                <para ALIGN="0" LINESP="74" MaxGlyphExtend="1"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="100" YPOS="2789.13385826772" OwnPage="8" ItemID="1523509873" PTYPE="6" WIDTH="544.251968503937" HEIGHT="306.141732283465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="OOKB Brown" PCOLOR2="Black" PLINEART="1" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="-427.744094488189" gYpos="7.64173228346499" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="169.51968503937" YPOS="2823.65354330709" OwnPage="8" ItemID="1504500721" PTYPE="4" WIDTH="459.212598425197" HEIGHT="272.125984251968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" copath="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" gXpos="169.51968503937" gYpos="54.5196850393701" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow"/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Yellow" CH="What"/>
-                <para LINESP="74"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB White" CH="Is"/>
-                <para LINESP="74"/>
-                <tab FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray" CH="CO"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FEATURES="inherit subscript" FCOLOR="OOKB Light Gray" KERN="-5" CH="2"/>
-                <ITEXT FONT="Sporting Grotesque Regular" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-12" CH="?"/>
-                <trail ALIGN="0" LINESP="74" MaxGlyphExtend="1"/>
-            </StoryText>
-        </PAGEOBJECT>
         <PAGEOBJECT XPOS="100" YPOS="3135.27559055118" OwnPage="9" ItemID="1514616433" PTYPE="6" WIDTH="544.251968503937" HEIGHT="306.141732283465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="OOKB Brown" PCOLOR2="Black" PLINEART="1" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="-427.744094488189" gYpos="7.64173228346499" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="169.51968503937" YPOS="3169.79527559056" OwnPage="9" ItemID="1520237089" PTYPE="4" WIDTH="459.212598425197" HEIGHT="272.125984251968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" copath="M0 0 L459.213 0 L459.213 272.126 L0 272.126 L0 0 Z" gXpos="169.51968503937" gYpos="54.5196850393701" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -378,5 +353,21 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="100" YPOS="1404.56692913386" OwnPage="4" ItemID="1523492161" PTYPE="2" WIDTH="544.251968503937" HEIGHT="306.141732283465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.27" LOCALSCY="0.27" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="unsplash/billy-huynh-v9bnfMCyKbg-unsplash.jpg" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" copath="M0 0 L544.252 0 L544.252 306.142 L0 306.142 L0 0 Z" gXpos="100" gYpos="1404.56692913386" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="169.51968503937" YPOS="2823.65354330709" OwnPage="8" ItemID="1529543761" PTYPE="4" WIDTH="459.212598425197" HEIGHT="262.238188976375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L459.213 0 L459.213 262.238 L0 262.238 L0 0 Z" copath="M0 0 L459.213 0 L459.213 262.238 L0 262.238 L0 0 Z" gXpos="169.51968503937" gYpos="54.5196850393701" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH="Bio"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-22" CH="l"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH="ogica"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-18" CH="l"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH=" "/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB White" KERN="-12" CH="Carbon"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Yellow" KERN="-12" CH=" "/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-12" CH="Cyc"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-26" CH="l"/>
+                <ITEXT FONT="Compagnon Light Italic" FONTSIZE="82" FCOLOR="OOKB Light Gray" KERN="-12" CH="e"/>
+                <para ALIGN="0" LINESP="74" MaxGlyphExtend="1"/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
